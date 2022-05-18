@@ -10,4 +10,4 @@ Prod Coletiva 1 Educação e tecnologias em tempos de pandemia no Brasil.pdf
 
 Coloquem o conteúdo do trabalho em um arquivo ppt e façam a entrega no campo Produção Coletiva (postem somente um componente do grupo).
 
-A atividade deve ser desenvolvida no período de 9 a 19 de maio.13 a 23 de Maio.
+A atividade deve ser desenvolvida no período de 13 a 23 de Maio.
