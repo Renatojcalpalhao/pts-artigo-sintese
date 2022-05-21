@@ -11,3 +11,15 @@ Prod Coletiva 1 Educação e tecnologias em tempos de pandemia no Brasil.pdf
 Coloquem o conteúdo do trabalho em um arquivo ppt e façam a entrega no campo Produção Coletiva (postem somente um componente do grupo).
 
 A atividade deve ser desenvolvida no período de 13 a 23 de Maio.
+
+instruções para usar o git:
+
+git clone https://github.com/Luis-HCarvalho/pts-artigo-sintese <!--Para fazer uma cópia desse repositorio para o seu pc -->
+git add <arquivo>                                              <!--Para adicionar um arquivo ao repositorio local (no seu pc) -->
+git commit -m <mensagem descrevendo as alterações feitas>      <!--Para confirmar as alterações -->
+
+
+<!--Incorpora as alterações feitas ao repositorio no github -->
+git remote add origin https://github.com/Luis-HCarvalho/pts-artigo-sintese 
+git branch -M main
+git push -u origin main
